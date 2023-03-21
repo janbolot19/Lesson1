@@ -1,0 +1,25 @@
+
+.phoneCheck{
+    background-color: blue;
+    cursor: pointer;
+    border: solid 1px;
+    border-radius: 5px;
+    height: 30px;
+    width: 40px;
+}
+.block{
+    margin-top: 30px;
+    position: relative;
+    width: 200px;
+    height: 200px;
+    border: 1px solid;
+    background-color: yellow;
+
+}
+.box{
+    
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    background-color: blue;
+}
